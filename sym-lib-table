@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "SofleKeyboard")(type "Legacy")(uri "C:/Users/waele/Documents/GitHub/DIY-PCB-Design/SofleKeyboard/Sofle_v2/PCB/SofleKeyboard.lib")(options "")(descr ""))
+  (lib (name "SofleKeyboard-cache")(type "Legacy")(uri "C:/Users/waele/Documents/GitHub/DIY-PCB-Design/SofleKeyboard/Sofle_v2/PCB/SofleKeyboard-cache.lib")(options "")(descr ""))
+  (lib (name "SofleKeyboard-rescue")(type "Legacy")(uri "C:/Users/waele/Documents/GitHub/DIY-PCB-Design/SofleKeyboard/Sofle_v2/PCB/SofleKeyboard-rescue.lib")(options "")(descr ""))
+)
